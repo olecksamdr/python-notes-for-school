@@ -71,7 +71,7 @@ print(a[6]) # Нд
 Перший елемент списку відповідає індексу 0. Другий елемент списку відповідає індексу 1 і т. д.
 Тому щоб звернутися до сьомого елемента списку, слід вказати індекс 6.
 
-  ![Опис синтаксису списку](/list/img/list-elements.png#gh-dark-mode-only)![Опис синтаксису списку](/list/img/list-elements-dark.png#gh-light-mode-only)
+  ![Опис синтаксису списку](/list/img/list-elements.png#gh-light-mode-only)![Опис синтаксису списку](/list/img/list-elements-dark.png#gh-dark-mode-only)
 </p>
 
 ## Домашнє завдання
