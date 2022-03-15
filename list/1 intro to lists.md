@@ -72,12 +72,7 @@ print(a[6]) # Нд
 Тому щоб звернутися до сьомого елемента списку, слід вказати індекс 6.
 
 <p align="center">
-  <picture>
-    <source
-      srcset="/list/img/list-elements-dark.png" 
-      media="(prefers-color-scheme: dark)">
-    <img width="931" height="270" src="/list/img/list-elements.png">
-  </picture>
+  ![Опис синтаксису списку](/list/img/list-elements.png#gh-dark-mode-only)![Опис синтаксису списку]/list/img/list-elements-dark.png#gh-light-mode-only)
 </p>
 
 ## Домашнє завдання
