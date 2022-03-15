@@ -72,7 +72,12 @@ print(a[6]) # Нд
 Тому щоб звернутися до сьомого елемента списку, слід вказати індекс 6.
 
 <p align="center">
-  <img width="931" height="270" src="/list/img/list-elements.png" alt="Список днів із подписами: назва, індекс, елемент списку">
+  <picture>
+    <source
+      srcset="/list/img/list-elements-dark.png" 
+      media="(prefers-color-scheme: dark)">
+    <img width="931" height="270" src="/list/img/list-elements.png">
+  </picture>
 </p>
 
 ## Домашнє завдання
