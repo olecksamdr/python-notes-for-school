@@ -43,7 +43,7 @@ b = 1
 Для цього використаємо переприсвоєння - присвоєння одній змінній значення іншої
 Переглянемо три рядки коду, які доволять це зробити
 
-![Змінюємо значення змінних](/loops/img/fibo3.png#gh-light-mode-only)![Змінюємо значення змінних](/loops/img/fibo3-dark.png#gh-dark-mode-only)
+![Переприсвоєння](/loops/img/fibo3.png#gh-light-mode-only)![Переприсвоєння](/loops/img/fibo3-dark.png#gh-dark-mode-only)
 
 Якщо повторювати ці операції знову і знову (циклічно),
 то після кожного повторення в змінній `c` буде наступне число Фібоначчі.
@@ -57,9 +57,13 @@ b = 1
 print(a)
 print(b)
 
-for i in range(2, n + 1):
+for i in range(3, n + 1):
     c = a + b
     print(c)
     a = b
     b = c
 ```
+
+### Коментарі до коду
+
+![Коментарі до коду](/loops/img/fibo4.png#gh-light-mode-only)![Коментарі до коду](/loops/img/fibo4-dark.png#gh-dark-mode-only)
