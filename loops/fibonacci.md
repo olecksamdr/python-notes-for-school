@@ -29,10 +29,10 @@ b = 1
 
 Легко отримати третє число послідовності: `c = a + b`.
 
-![Перші 3 числа послідовності](/loops/img/fibo1.svg#gh-light-mode-only)![Перші 3 числа послідовності](/loops/img/fibo1-dark.svg#gh-dark-mode-only)
+![Перші 3 числа послідовності](/loops/img/fibo1.png#gh-light-mode-only)![Перші 3 числа послідовності](/loops/img/fibo1-dark.png#gh-dark-mode-only)
 
 Ми маємо перші 3 числа Фібоначчі, але як отримати 4-те, 5-те і наступні числа?
 Для цього зробимо так, щоб `a i b` вказували на 2 останні числа Фібоначчі які ми знаємо. І тоді знову порахуємо `c = a + b`.
 Виглядає ніби ми пересуваємо змінні `a, b, c`, щоб отримати наступне число Фібоначчі.
 
-![Змінюємо значення змінних](/loops/img/fibo2.svg#gh-light-mode-only)![Змінюємо значення змінних](/loops/img/fibo2-dark.svg#gh-dark-mode-only)
+![Змінюємо значення змінних](/loops/img/fibo2.png#gh-light-mode-only)![Змінюємо значення змінних](/loops/img/fibo2-dark.png#gh-dark-mode-only)
