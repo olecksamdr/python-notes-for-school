@@ -4,7 +4,7 @@ HTML (HyperText Markup Language - мова гіпертекстової розм
 
 ## Структура HTML елемента
 
-![Структура HTML елемента](/web/img/html element.png#gh-light-mode-only)![Структура HTML елемента](/web/img/html element-dark.png#gh-dark-mode-only)
+![Структура HTML елемента](/web/img/html-element.png#gh-light-mode-only)![Структура HTML елемента](/web/img/html-element-dark.png#gh-dark-mode-only)
 
 # CSS
 
