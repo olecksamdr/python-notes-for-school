@@ -6,6 +6,14 @@ HTML (HyperText Markup Language - мова гіпертекстової розм
 
 ![Структура HTML елемента](/web/img/html-element.png#gh-light-mode-only)![Структура HTML елемента](/web/img/html-element-dark.png#gh-dark-mode-only)
 
+## Атрибути
+
+У елементів можуть бути атрибути, які виглядають так:
+
+![Атрибут](/web/img/attribute.png#gh-light-mode-only)![Атрибут](/web/img/attribute-dark.png#gh-dark-mode-only)
+
+Атрибути містять додаткову інформацію про елемент. Наприклад тег `img`, який вставляє картинку на сторінку має атрибут `src`. Цей атрибут містить шлях до картинки.
+
 # CSS
 
 CSS (Cascading Style Sheets - каскадні таблиці стилів) використовується для стилізації та компонування веб-сторінок - наприклад, для зміни шрифту, кольору, розміру та відступів, поділу його на кілька стовпців або додавання анімації та інших декоративних елементів
@@ -25,7 +33,7 @@ CSS (Cascading Style Sheets - каскадні таблиці стилів) ви
 На те, як саме він змінюватиметься, вказує `значення` цієї властивості.
 
 ## Використані джерела
-
 - [Введение в HTML](https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML)
+- [Начало работы с HTML](https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 - [Введение в CSS](https://developer.mozilla.org/ru/docs/Learn/CSS/First_steps)
 - [CSS-правило](https://doka.guide/css/css-rule/)
