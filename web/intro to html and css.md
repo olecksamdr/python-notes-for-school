@@ -32,7 +32,7 @@ CSS (Cascading Style Sheets - каскадні таблиці стилів) ви
 
 На те, як саме він змінюватиметься, вказує `значення` цієї властивості.
 
-## Використані джерела
+# Використані джерела
 - [Введение в HTML](https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML)
 - [Начало работы с HTML](https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 - [Введение в CSS](https://developer.mozilla.org/ru/docs/Learn/CSS/First_steps)
